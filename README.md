@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @climclim03
-- 👀 I’m interested in games and bots
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord : climclim03#1393
+OY OY OY 
+Looking at my description? Well thank u very kind of u
 
-<!---
-climclim03/climclim03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I am Climclim03 or Ellie
+
+I am a student and learning c# and 3d and unity idk
+
+Will update this more later when I need it!
+
+
